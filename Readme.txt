@@ -1,1 +1,1 @@
-#All math functions i come across will be here
+#Useful Math functions for students studying Linear Algebra
